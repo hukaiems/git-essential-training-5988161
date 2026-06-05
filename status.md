@@ -1,8 +1,1 @@
-You die with a smileeee!!!!
-
-
-
-wowy never die.
-
-
-commit then use revert.
+We want to use the reset for pushing.
